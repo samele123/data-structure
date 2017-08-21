@@ -8,7 +8,7 @@
 
 下边图示Kruskal算法的实现过程
 
-<dig align=center>
+
 ![这里写图片描述](http://img.blog.csdn.net/20170720101405946?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzc0MTIyMjk=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 <font color=green>**代码部分**</font>
